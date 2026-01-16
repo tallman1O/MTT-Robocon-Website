@@ -79,25 +79,25 @@ const cards = [
       );
     },
   },
-  {
-    description: "Controls",
-    title: "Aishwarya Godse",
-    src: "/team/Aishwarya G .jpg",
-    ctaLink: "https://www.linkedin.com/in/aishwarya-godse-73ba28234/",
-    content: () => {
-      return (
-        <p>
-          Aishwarya Godse is an Electrical and Computer Engineering student
-          focused on robotics and embedded systems. As a member of the Controls
-          Department, she has developed embedded code for robot navigation and
-          mechanism control and is currently advancing her skills in ROS2. With
-          experience in competition analytics, Aishwarya is dedicated to
-          excelling in robotics and leaving a positive impact, particularly in
-          traditionally male-dominated fields.
-        </p>
-      );
-    },
-  },
+  // {
+  //   description: "Controls",
+  //   title: "Aishwarya Godse",
+  //   src: "/team/Aishwarya G .jpg",
+  //   ctaLink: "https://www.linkedin.com/in/aishwarya-godse-73ba28234/",
+  //   content: () => {
+  //     return (
+  //       <p>
+  //         Aishwarya Godse is an Electrical and Computer Engineering student
+  //         focused on robotics and embedded systems. As a member of the Controls
+  //         Department, she has developed embedded code for robot navigation and
+  //         mechanism control and is currently advancing her skills in ROS2. With
+  //         experience in competition analytics, Aishwarya is dedicated to
+  //         excelling in robotics and leaving a positive impact, particularly in
+  //         traditionally male-dominated fields.
+  //       </p>
+  //     );
+  //   },
+  // },
   {
     description: "Controls",
     title: "Amruta Panda",
@@ -132,22 +132,22 @@ const cards = [
       );
     },
   },
-  {
-    description: "Controls",
-    title: "Himadri Rajput",
-    src: "/team/Himadri.jpg",
-    ctaLink: "",
-    content: () => {
-      return (
-        <p>
-          Himadri Rajput, a Robocon team member, excels in embedded systems
-          coding, where her skills in microcontroller programming, learning ros
-          and its core concepts and firmware development make her a key
-          contributor to the team&apos;s technical innovation.
-        </p>
-      );
-    },
-  },
+  // {
+  //   description: "Controls",
+  //   title: "Himadri Rajput",
+  //   src: "/team/Himadri.jpg",
+  //   ctaLink: "",
+  //   content: () => {
+  //     return (
+  //       <p>
+  //         Himadri Rajput, a Robocon team member, excels in embedded systems
+  //         coding, where her skills in microcontroller programming, learning ros
+  //         and its core concepts and firmware development make her a key
+  //         contributor to the team&apos;s technical innovation.
+  //       </p>
+  //     );
+  //   },
+  // },
 
   {
     description: "Controls",
